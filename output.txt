@@ -1,0 +1,20 @@
+Reusing persistent ChromaDB (147 chunks)
+
+Q1: What does the diagnostic LED pattern of three rapid red flashes followed by two solid amber flashes indicate on the X9 flight controller?
+{'answer': 'SECTION 3.2: FLIGHT CONTROLLER DIAGNOSTIC LED BLINK CODES Technicians must inspect the rear status LED module prior to arming the motors: - Solid Green: RTK-GPS 3D Fix locked, ready for takeoff. - 3 Rapid Red Flashes followed by 2 Solid Amber Flashes: Indicates a Primary IMU Magnetometer Calibration Fault and Compass Interference Lockout (Error Code ERR_IMU_MAG_07). Do not arm motors; relocate the aircraft at least 15 meters away from steel structures and run 6-axis compass calibration.', 'sources': ['page 12']}
+Reusing persistent ChromaDB (147 chunks)
+
+Q2: Can the AeroVantage X9 be used for underwater sonar mapping at a depth of 50 metres?
+{'answer': '[not found]', 'sources': []}
+Reusing persistent ChromaDB (147 chunks)
+
+Q3: At what minimum per-cell voltage, in volts, does the X9 trigger a forced emergency Return-to-Home (RTH) landing?
+{'answer': 'SECTION 6.4: 6S LIPO BATTERY VOLTAGE CUTOFF & FORCED RETURN-TO-HOME (RTH) The AeroVantage X9 utilizes dual 22,000 mAh 6S LiPo smart batteries monitored at the individual cell level: - Stage 1 Low Voltage Warning: 3.60 Volts per cell (amber telemetry alert). - Stage 2 Forced Emergency Return-to-Home (RTH): Triggered automatically when any cell drops to a minimum threshold of 3.45 Volts per cell. - Stage 3 Critical Auto-Land: Triggered at 3.30 Volts per cell.', 'sources': ['page 29']}
+Reusing persistent ChromaDB (147 chunks)
+
+Q4: What is the maximum sustained wind speed at which the X9 is certified to operate safely?
+{'answer': 'SECTION 9.3: ENVIRONMENTAL OPERATING ENVELOPE & WIND SPEED LIMITS The AeroVantage X9 is certified for safe industrial flight operations in maximum sustained wind speeds of 38 knots (equivalent to 70 km/h or 19.5 m/s). Operations must be aborted immediately if wind gusts exceed this certified limit.', 'sources': ['page 44']}
+Reusing persistent ChromaDB (147 chunks)
+
+Q5: Who is the current Chief Executive Officer of DJI Innovations?
+{'answer': '[not found]', 'sources': []}

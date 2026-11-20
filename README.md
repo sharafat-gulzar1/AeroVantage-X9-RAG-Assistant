@@ -28,7 +28,7 @@ The only knowledge corpus is `manual.pdf`. If no relevant supported evidence is 
 
 ## Assessment actual outputs
 Run `python main.py` and paste its five *actual* generated answers and sources here. Compare them against expected answers above; do not claim success without running and checking. Capture a terminal screenshot for the portal.
-
+Actual Q1–Q5 generated answers and source citations are saved in `output.txt`.
 ## GitHub
 ```bash
 git init
